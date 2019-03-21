@@ -1,0 +1,2 @@
+This folder contains the code, data used to train and predict prices of a single house in King County using 21 features and 21000 rows of data. 
+It has an R-squared value of 88% with error rate 0.181
