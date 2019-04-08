@@ -1,1 +1,8 @@
 
+This file contains dataset and codebook for Crime Analysis in Boston.
+Goal: To predict if a given suburb has crime rate above or below the median value
+Procedure: Data cleaning
+           Data Exploration & Analysis
+           Feature Selection using Forward, Backward, RFE
+           Model Selection 
+           Hyperparameter Tuning
